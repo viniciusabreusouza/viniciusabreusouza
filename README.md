@@ -2,35 +2,23 @@
 
 Web developer and super interested in DevOps and mobile development :) 
 
-### About Me
 
+<div align="center">
+  <a href="https://github.com/viniciusabreusouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusabreusouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabreusouza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Vini-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Vini-K8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="center" alt="Vini-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
-- 🌱 I’m currently learning DevOps, Kotlin
+##
 
-
-- 💬 Talk to me about .Net, DevOps, Kotlin, Java 
-
-<h3> Skills </h3>
-<a href= https://github.com/viniciusabreusouza?tab=repositories&q=&type=&language=csharp&sort= > 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>
-</a>
-<a href= https://github.com/viniciusabreusouza?tab=repositories&q=&type=&language=java&sort= >
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
-</a>
-<a href= https://github.com/viniciusabreusouza?tab=repositories&q=&type=&language=kotlin&sort= > 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'>
-</a>
-<a href= https://github.com/viniciusabreusouza?tab=repositories&q=&type=&language=kubernetes&sort= > 
-  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'>
-</a>
-
-
-<h3> Connect with me </h3>
-<a href = 'https://www.linkedin.com/in/viniciusabreu'> 
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
-</a> 
-
-
-<h3> My GitHub Stats  </h3>
-
-![Metrics](https://metrics.lecoq.io/viniciusabreusouza?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<div> 
+  <a href = "mailto:viniciusabreu743@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciusabreu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
