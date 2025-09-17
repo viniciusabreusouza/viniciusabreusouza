@@ -6,7 +6,6 @@ Web developer and super interested in DevOps and mobile development :)
 <div align="center">
   <a href="https://github.com/viniciusabreusouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusabreusouza&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusabreusouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
